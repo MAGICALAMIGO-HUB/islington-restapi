@@ -1,0 +1,7 @@
+for virtual env>>>>>>>>>>>>  PS D:\Islington python api> .\venv\Scripts\activate
+for upgrading pip >>>>>>>>>  (venv) PS D:\Islington python api> pip install --upgrade pip,,,,python.exe -m pip install --upgrade pip
+for requirements >>>>>>>>>>  (venv) PS D:\Islington python api> pip install -r .\requirements.txt 
+
+for creating django project> (venv) PS D:\Islington python api\backend> django-admin startproject islington_home .
+for creating app >>>>>>>>>>> (venv) PS D:\Islington python api\backend> python manage.py startapp api
+for rinning the app >>>>>>>> (venv) PS D:\Islington python api\backend> python manage.py runserver 8000
