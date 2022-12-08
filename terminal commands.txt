@@ -9,11 +9,11 @@ for rinning the app >>>>>>>> (venv) PS D:\Islington python api\backend> python m
 ------------------------------------------------------------------------------------------------------
 github
     Cmd>>>>venv
-                $ git config --global user.name "Your Name"
-                $ git config --global user.email "you@youraddress.com"
-                $ git config --global push.default matching
-                $ git config --global alias.co checkout
-                $ git init
+                git config --global user.name "Anish Ku,ar shrestha"
+                git config --global user.email "np01cp4a190413@islingtoncollege.edu.np"
+                git config --global push.default matching
+                git config --global alias.co checkout
+                git init
                 git add .
                 git commit -am "initial commit"
                 deactivate
@@ -52,7 +52,9 @@ Mode                 LastWriteTime         Length Name
 
 PS C:\Users\user\.ssh> cat id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCsCxzTuKysTgcVICCyxzhPOEGoIyH9vvEJNBX6ycnf8PZOvvnWS3mSX0VdQkCUgFrNRktfxQU4JrkQwJeeSRz2ZHfyxErihu+w6q/9gQv3ir+AC/52N457AZXrIbqbCMK+SYEM9pYBM/WUinM0rTLelvXS+krIbqbCMK+SYEM9pYBM/WUinM0rTLelvXS+kwOCStGFvGTNZw9igtLgtZJ7JUYtbyHkZc2XB+XaFuKFcHH+o13atSK93PqJTEQCBH1YSW4gk0XhdQQzpRidgdJtevhnNkgc9lQD13RzGZV71BMh7h5QMRzAja9fSyWgJ9MY9/Tt1JdDK0R43tk1il8LAkyp1ZlyMkmEtJcDGDY1NXJI09eykUnevsUzwTa6M/PyWgJ9MY9/Tt1JdDK0R43tk1il8LAkyp1ZlyGPTNXTunHk//q6EIvp5N/6cA2oH80EKPP2qwWCu3qMp71ots1QcztCOL1tZph21imSHVXsp6wfjdKMvR+cuL5pAaLzc+E= user@DESKTOP-2O83U44FCyzpefuqNdU+3atOqU3AKBkxQyuAVLmXFnWBLybO0ISiI8wu3Do4YVBeHpPmGG1xgGsNTzc+E= user@DESKTOP-2O83U44
-PS C:\Users\user\.ssh>
+
+
+Copy ^^^^^^^^^^^^^^^^^^^^^^
 
 
             
