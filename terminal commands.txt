@@ -5,3 +5,54 @@ for requirements >>>>>>>>>>  (venv) PS D:\Islington python api> pip install -r .
 for creating django project> (venv) PS D:\Islington python api\backend> django-admin startproject islington_home .
 for creating app >>>>>>>>>>> (venv) PS D:\Islington python api\backend> python manage.py startapp api
 for rinning the app >>>>>>>> (venv) PS D:\Islington python api\backend> python manage.py runserver 8000
+
+------------------------------------------------------------------------------------------------------
+github
+    Cmd>>>>venv
+                $ git config --global user.name "Your Name"
+                $ git config --global user.email "you@youraddress.com"
+                $ git config --global push.default matching
+                $ git config --global alias.co checkout
+                $ git init
+                git add .
+                git commit -am "initial commit"
+                deactivate
+                mkdir ~/.ssh
+                cd ~/.ssh
+ PS D:\.ssh> ssh-keygen.exe
+Generating public/private rsa key pair.
+Enter file in which to save the key (C:\Users\user/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in C:\Users\user/.ssh/id_rsa.
+Your public key has been saved in C:\Users\user/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:t9ekmOkHpyY4LVNjCuWQisxoPJbUvAvMNI8zdGYCWrw user@DESKTOP-2O83U44
+| .               |
+|. o              |
+|o.o. .           |
+|.*E*o .          |
+|@.X..+  S .   .  |
+|o/.o. . +..=.+   |
+|o = .. * .=+o .  |
+|   .  * o.o..    |
+|       + o..     |
++----[SHA256]-----+
+PS C:\Users\user\.ssh> dir
+
+
+    Directory: C:\Users\user\.ssh
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         12/8/2022  10:06 PM           2610 id_rsa
+-a----         12/8/2022  10:06 PM            575 id_rsa.pub
+
+
+PS C:\Users\user\.ssh> cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCsCxzTuKysTgcVICCyxzhPOEGoIyH9vvEJNBX6ycnf8PZOvvnWS3mSX0VdQkCUgFrNRktfxQU4JrkQwJeeSRz2ZHfyxErihu+w6q/9gQv3ir+AC/52N457AZXrIbqbCMK+SYEM9pYBM/WUinM0rTLelvXS+krIbqbCMK+SYEM9pYBM/WUinM0rTLelvXS+kwOCStGFvGTNZw9igtLgtZJ7JUYtbyHkZc2XB+XaFuKFcHH+o13atSK93PqJTEQCBH1YSW4gk0XhdQQzpRidgdJtevhnNkgc9lQD13RzGZV71BMh7h5QMRzAja9fSyWgJ9MY9/Tt1JdDK0R43tk1il8LAkyp1ZlyMkmEtJcDGDY1NXJI09eykUnevsUzwTa6M/PyWgJ9MY9/Tt1JdDK0R43tk1il8LAkyp1ZlyGPTNXTunHk//q6EIvp5N/6cA2oH80EKPP2qwWCu3qMp71ots1QcztCOL1tZph21imSHVXsp6wfjdKMvR+cuL5pAaLzc+E= user@DESKTOP-2O83U44FCyzpefuqNdU+3atOqU3AKBkxQyuAVLmXFnWBLybO0ISiI8wu3Do4YVBeHpPmGG1xgGsNTzc+E= user@DESKTOP-2O83U44
+PS C:\Users\user\.ssh>
+
+
+            
