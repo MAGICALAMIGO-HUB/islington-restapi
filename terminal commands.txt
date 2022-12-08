@@ -55,6 +55,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCsCxzTuKysTgcVICCyxzhPOEGoIyH9vvEJNBX6ycnf
 
 
 Copy ^^^^^^^^^^^^^^^^^^^^^^
+ git remote add origin https://github.com/MAGICALAMIGO-HUB/islington-restapi.git
+git push -u origin main 
 
 
             
